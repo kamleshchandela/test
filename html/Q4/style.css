@@ -1,0 +1,35 @@
+.img{
+    width: 60%;
+    
+}
+
+.btn{
+    width: 15vw;
+    height: 10vh;
+    background: linear-gradient( to left , blue , red);
+    border-radius: 5vw;
+    font-size: 2rem;
+    font-weight: 800;
+    color: white;
+    cursor: pointer;
+    position: fixed;
+    top: 20vh;
+    left: 70vw;
+}
+.btn:hover{
+    width: 15vw;
+    height: 10vh;
+    background: linear-gradient( to left , red , blue);
+    border-radius: 5vw;
+    font-size: 2rem;
+    font-weight: 800;
+    color: white;
+}
+
+
+
+
+
+
+
+
